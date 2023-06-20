@@ -83,7 +83,6 @@ export default {
     path: PATH_DEMO,
     filename: "app.js",
     publicPath: PUBLIC_PATH,
-    hashFunction: "xxhash64",
   },
   plugins: [
     ...plugins,
